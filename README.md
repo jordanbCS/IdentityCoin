@@ -1,7 +1,9 @@
 # Public repository for IdentityCoin.com
 
+## Related  
 
-
+ - https://www.wareable.com/vr/vr-re-living-memories-9393
+ - 
 
 ## Welcome to GitHub Pages
 
