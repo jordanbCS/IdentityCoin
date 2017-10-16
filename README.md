@@ -1,4 +1,4 @@
-# Public repository for IdentityCoin.com
+# Public repository for IdentityCoin.org
 
 It may be the case that accruing and then spending IdentityCoin tokens is the sort of the thing that would "buy" the legitimacy of a vote cast be a wallet holder of VoteCoin. This repository is just a place to start thinking out loud about this.
 
