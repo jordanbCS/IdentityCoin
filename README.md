@@ -4,6 +4,7 @@ It may be the case that accruing and then spending IdentityCoin tokens is the so
 
 ## Related  
 
- - https://www.wareable.com/vr/vr-re-living-memories-9393
- - https://www.reddit.com/r/CryptoUBI/comments/71kqpy/idea_use_existing_businesses_to_verify_unique/  
+ - https://ist.mit.edu/touchstone  
+ - https://www.wareable.com/vr/vr-re-living-memories-9393  
+ - https://www.reddit.com/r/CryptoUBI/comments/71kqpy/idea_use_existing_businesses_to_verify_unique/   
  
