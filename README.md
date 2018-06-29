@@ -4,6 +4,7 @@ It may be the case that accruing and then spending IdentityCoin tokens is the so
 
 ## Related  
 
+ - https://www.civic.com/products/secure-identity-platform/  
  - https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12  
    - https://sovrin.org/  
  - http://www.fintechblue.com/2017/06/blockchain-identity-can-learn-indias-aadhaar-platform/  
