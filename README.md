@@ -4,6 +4,7 @@ It may be the case that accruing and then spending IdentityCoin tokens is the so
 
 ## Related  
 
+ - https://ont.io/  
  - https://www.civic.com/products/secure-identity-platform/  
  - https://medium.com/@iotasuppoter/iota-the-case-of-decentralized-digital-identity-de7b95042c12  
    - https://sovrin.org/  
