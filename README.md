@@ -3,6 +3,8 @@
 It may be the case that accruing and then spending IdentityCoin tokens is the sort of the thing that would "buy" the legitimacy of a vote cast be a wallet holder of VoteCoin. This repository is just a place to start thinking out loud about this.
 
 ## Related  
+ - https://www.reddit.com/r/btc/comments/d9mj9g/i_built_a_decentralised_rating_and_reputation/  
+   - The tutorial starting here: https://mtrycz.github.io/bchrep/ is based on BCH, so I didn't continue but seems interesting.   
  - https://www.reddit.com/r/BasicIncome/comments/b61o08/an_easily_implemented_idea_a_cryptocurrency_with/  
  - https://www.computing.co.uk/ctg/news/3033006/blockchain-update-microsofts-strategy-for-decentralised-identity  
  - https://ont.io/ - ONTology  
