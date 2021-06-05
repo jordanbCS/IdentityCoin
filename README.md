@@ -1,10 +1,10 @@
 # Public repository for IdentityCoin.com/org
 
-It may be the case that accruing and then spending IdentityCoin tokens is the sort of the thing that would "buy" the legitimacy of a vote cast be a wallet holder of VoteCoin. This repository is just a place to start thinking out loud about this.
+It may be the case that accruing something like an "IdentityCoin" token, needed in order to "buy" the legitimacy of a vote, would be needed for a "VoteCoin". 
 
 ## Related  
- - https://theblockchainsocialist.com/why-the-left-should-care-about-blockchain-identity-and-quadratic-voting-feat-paula-berman-from-democracy-earth/  
  - Idena - https://www.reddit.com/r/CryptoUBI/comments/epkx3x/proofofperson_blockchain_for_ubi_in_crypto/  
+ - https://theblockchainsocialist.com/why-the-left-should-care-about-blockchain-identity-and-quadratic-voting-feat-paula-berman-from-democracy-earth/  
  - https://blog.iota.org/the-first-step-towards-a-unified-identity-protocol-7dc3988c8b0e  
  - https://www.hyperledger.org/projects/hyperledger-indy  
  - https://www.reddit.com/r/btc/comments/d9mj9g/i_built_a_decentralised_rating_and_reputation/  
