@@ -3,6 +3,8 @@
 It may be the case that accruing something like an "IdentityCoin" token, needed in order to "buy" the legitimacy of a vote, would be needed for a "VoteCoin". 
 
 ## Related  
+
+ - "The preferred project of Vitalik Buterin, creator of Ethereum, is in Argentina: Proof of Humanity" https://thegaltimes.com/the-preferred-project-of-vitalik-buterin-creator-of-ethereum-is-in-argentina-proof-of-humanity/20457/  
  - Idena - https://www.reddit.com/r/CryptoUBI/comments/epkx3x/proofofperson_blockchain_for_ubi_in_crypto/  
  - https://theblockchainsocialist.com/why-the-left-should-care-about-blockchain-identity-and-quadratic-voting-feat-paula-berman-from-democracy-earth/  
  - https://blog.iota.org/the-first-step-towards-a-unified-identity-protocol-7dc3988c8b0e  
