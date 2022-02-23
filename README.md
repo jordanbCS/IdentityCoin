@@ -4,6 +4,8 @@ It may be the case that accruing something like an "IdentityCoin" token, needed 
 
 ## Related  
 
+ - Decentralized Basic Income & ZK Proof Identities - Hakwan Lau - https://www.youtube.com/watch?v=jB5gChpa9OY   
+   
  - Algorand: "Identity and Credentials Verification: If you want to be able to securely and privately do KYC without handing your identity to the recipient, you need ZK Proofs. Another really cool example of an identity application of ZK Proofs is a job, school, or loan application. Using an Interactive ZK proof you can verify to the school, employer, or lender that you meet each and every one of a list of criteria they set without revealing attributes of your identity or your identity itself." https://www.reddit.com/r/CryptoCurrency/comments/rwwx6x/silvio_micali_founder_of_algorand_won_the_turing/hrgm51k/    
  - "The preferred project of Vitalik Buterin, creator of Ethereum, is in Argentina: Proof of Humanity" https://thegaltimes.com/the-preferred-project-of-vitalik-buterin-creator-of-ethereum-is-in-argentina-proof-of-humanity/20457/  
  - Idena - https://www.reddit.com/r/CryptoUBI/comments/epkx3x/proofofperson_blockchain_for_ubi_in_crypto/  
