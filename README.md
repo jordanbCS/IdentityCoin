@@ -4,6 +4,8 @@ It may be the case that accruing something like an "IdentityCoin" token, needed 
 
 ## Related  
 
+ - soulbound tokens: "Unlike regular NFTs, they're non-transferable (though people can revoke them if they choose.) SBTs would represent a person's reputation and accomplishments, a kind of "extended resume," Buterin wrote. The idea is to bolster people's social identities by customizing them with unique, non-exchangeable badges. In theory, the tokens could help solve some of the problems ravaging decentralized finance, like scams and theft." ... "A person's SBTs would then be validated by other "souls," or people who can vouch for you and the credential or accomplishment you're earning a token for, similar to how a LinkedIn connection can verify a skill of yours." - paper: "Weyl, Eric Glen and Ohlhaver, Puja and Buterin, Vitalik, Decentralized Society: Finding Web3's Soul (May 10, 2022). Available at SSRN: https://ssrn.com/abstract=4105763" - https://finance.yahoo.com/news/ethereums-cofounder-says-well-soon-183542182.html  
+
  - Decentralized Basic Income & ZK Proof Identities - Hakwan Lau - https://www.youtube.com/watch?v=jB5gChpa9OY   
    
  - Algorand: "Identity and Credentials Verification: If you want to be able to securely and privately do KYC without handing your identity to the recipient, you need ZK Proofs. Another really cool example of an identity application of ZK Proofs is a job, school, or loan application. Using an Interactive ZK proof you can verify to the school, employer, or lender that you meet each and every one of a list of criteria they set without revealing attributes of your identity or your identity itself." https://www.reddit.com/r/CryptoCurrency/comments/rwwx6x/silvio_micali_founder_of_algorand_won_the_turing/hrgm51k/    
