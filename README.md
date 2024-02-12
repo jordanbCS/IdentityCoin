@@ -25,5 +25,7 @@ It may be the case that accruing something like an "IdentityCoin" token, needed 
  - http://www.fintechblue.com/2017/06/blockchain-identity-can-learn-indias-aadhaar-platform/  
  - https://ist.mit.edu/touchstone  
  - https://www.wareable.com/vr/vr-re-living-memories-9393  
- - https://www.reddit.com/r/CryptoUBI/comments/71kqpy/idea_use_existing_businesses_to_verify_unique/   
+ - https://www.reddit.com/r/CryptoUBI/comments/71kqpy/idea_use_existing_businesses_to_verify_unique/
+ - https://www.businessinsider.com/white-house-cryptographically-verify-official-communications-ai-deep-fakes-surge-2024-2
+
  
